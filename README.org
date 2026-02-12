@@ -1,6 +1,7 @@
 * Linked Lisp
 
 * TODO List:
++ fix cond reduction
 + add lambdas & fix environments
 + add maps, folds etc...
 + maybe add macros
