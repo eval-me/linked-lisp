@@ -1,0 +1,11 @@
+* Linked Lisp
+
+* TODO List:
++ add lambdas & fix environments
++ add maps, folds etc...
++ maybe add macros
++ maybe add other features
++ maybe optimize
+  
+
+
